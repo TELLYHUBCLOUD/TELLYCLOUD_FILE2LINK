@@ -4,13 +4,13 @@
 
 ### Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoR2spr/Opfile2Link-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TELLYHUBCLOUD/TELLYCLOUD_FILE2LINK)
 
 ### Deploy on Render
 
 Press the button and make ytml folder and deploy on Render
 
-<a href="https://render.com/deploy?repo=https://github.com/SudoR2spr/Opfile2Link-BOT">
+<a href="https://render.com/deploy?repo=https://github.com/TELLYHUBCLOUD/TELLYCLOUD_FILE2LINK">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
