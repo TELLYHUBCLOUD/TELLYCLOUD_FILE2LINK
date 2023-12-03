@@ -230,7 +230,7 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>WD-Rules ❣️ : <a href='https://t.me/TELLYCLOUD_BOTS'>Rules</a></b>
+┣⪼<b>TC-Rules ❣️ : <a href='https://t.me/TELLYCLOUD_BOTS'>Rules</a></b>
 ┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/TELLYHUBSUPPORTS'>TELLYHUB</a></b>
 ┣⪼<b>Bypass bot : <a href='https://t.me/TC_bypassbot'>Bypasser ʙᴏᴛ</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
