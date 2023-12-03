@@ -125,7 +125,7 @@ async def start(b, m):
 
         msg_text = "**ᴛᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...❣️\n\n⚽️ ғɪʟᴇ ɴᴀᴍᴇ :-\n{}\n {}\n\n⚽️ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :- {}\n\n🌹 ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴇxᴘɪʀᴇᴅ 🌹\n\n@TELLYHUB**"
         await m.reply_photo(
-            photo="https://te.legra.ph/file/e9c87ad0b805862cd73a5.jpg",
+            photo="https://graph.org/file/00ef02c2cef70da78865f.jpg",
             caption=msg_text.format(file_name, file_size, stream_link),
             
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🥀 ᴅᴏᴡɴʟᴏᴀᴅ ɴᴏᴡ 🥀", url=stream_link)]])
