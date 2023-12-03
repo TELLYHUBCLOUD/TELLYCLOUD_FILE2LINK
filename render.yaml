@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: Opfile2Link-BOT
+    name: TELLYCLOUD_FILE2LINK
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 -m Adarsh
-    repo: TELLYCLOUD_FILE2LINK.git      
+    repo: https://github.com/TELLYHUBCLOUDTELLYCLOUD_FILE2LINK.git      
     branch: main
     envVars:
       - key: BOT_TOKEN 
