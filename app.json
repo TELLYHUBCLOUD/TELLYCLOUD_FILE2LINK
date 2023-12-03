@@ -1,5 +1,5 @@
 {
-  "name": "Opleech",
+  "name": "TELLYCLOUD_FILE2LINK",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Opleech",
   "keywords": [
       "telegram",
@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/SudoR2spr/",
+  "repository": "https://github.com/TELLYHUBCLOUD",
   "success_url": "/",
   "logo": "https://i.ibb.co/xFK1rdV/photo-2023-12-02-21-05-07.jpg",
-  "website": "https://t.me/Opleech",
+  "website": "https://t.me/TELLYCLOUD_BOTS",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
